@@ -1,0 +1,39 @@
+{
+"infoList":
+[
+{"panelTypeString":"ItemMessage",
+	"path":"UI/ItemMessagePanel",
+	"className":"ItemMessagePanel",
+	"isPop":false},
+
+{"panelTypeString":"Knapsack",
+	"path":"UI/KnapsackPanel",
+	"className":"KnapsackPanel",
+	"isPop":false},
+
+{"panelTypeString":"MainMenu",
+	"path":"UI/MainMenuPanel",
+	"className":"MainMenuPanel",
+	"isPop":false},
+
+{"panelTypeString":"Shop",
+	"path":"UI/ShopPanel",
+	"className":"ShopPanel",
+	"isPop":false},
+
+{"panelTypeString":"Skill",
+	"path":"UI/SkillPanel",
+	"className":"SkillPanel",
+	"isPop":false},
+
+{"panelTypeString":"System",
+	"path":"UI/SystemPanel",
+	"className":"SystemPanel",
+	"isPop":true},
+
+{"panelTypeString":"Task",
+	"path":"UI/TaskPanel",
+	"className":"TaskPanel",
+	"isPop":false}
+]
+}
